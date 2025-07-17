@@ -12,12 +12,12 @@ Tests to see which image formats are supported by GitHub Markdown.
 
 ### GIF
 
-![GIF format](./demo.gif)
+![GIF format](./animated/test.gif)
 
 ### WebP
 
-![WebP format](./demo.webp)
+![WebP format](./animated/test.webp)
 
 ### AVIF
 
-![AVIF format](./demo.avif)
+![AVIF format](./animated/test.avif)
