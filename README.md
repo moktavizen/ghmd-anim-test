@@ -1,9 +1,9 @@
 # GitHub Image Test
 
-Tests to see which image formats are supported by GitHub Markdown for README.
+Tests which image formats are supported in GitHub README Markdown.
 
 > [!NOTE]
-> This test doesn't apply for GitHub Rich Text Editor.
+> Doesn't apply for GitHub Rich Text Editor.
 
 ## Animated Image
 
