@@ -18,6 +18,10 @@ Tests to see which image formats are supported by GitHub Markdown for README.
 | WebP   | `ffmpeg -i test.mp4 -an -vf scale=830:-2,fps=fps=20 -loop 0 -c:v libwebp_anim test.webp` | 8.8MB |
 | AVIF   | `ffmpeg -i test.mp4 -an -vf scale=830:-2,fps=fps=20 -loop 0 -c:v libsvtav1 test.avif` | 3.3MB |
 
+### MP4 — Source
+
+![MP4 format](./animated/test.mp4)
+
 ### GIF
 
 ![GIF format](./animated/test.gif)
