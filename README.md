@@ -8,7 +8,7 @@ Tests which image formats are supported in GitHub README Markdown.
 ## Animated Image
 
 | Constraint | Value |
-|------------|-------|
+|:-----------|:------|
 | Width      | [830 px](./misc/width.md) |
 | FPS        | [20 FPS](https://github.com/ImageOptim/gifski/issues/351) |
 
